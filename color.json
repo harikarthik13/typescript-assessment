@@ -1,0 +1,82 @@
+[
+    {
+        "color": "red",
+        "code": "#f44336"
+    },
+    {
+        "color": "pink",
+        "code": "#e91e63"
+    },
+    {
+        "color": "purple",
+        "code": "#9c27b0"
+    },
+    {
+        "color": "deeppurple",
+        "code": "#673ab7"
+    },
+    {
+        "color": "indigo",
+        "code": "#3f51b5"
+    },
+    {
+        "color": "blue",
+        "code": "#2196f3"
+    },
+    {
+        "color": "lightblue",
+        "code": "#03a9f4"
+    },
+    {
+        "color": "cyan",
+        "code": "#00bcd4"
+    },
+    {
+        "color": "teal",
+        "code": "#009688"
+    },
+    {
+        "color": "green",
+        "code": "#4caf50"
+    },
+    {
+        "color": "lightgreen",
+        "code": "#8bc34a"
+    },
+    {
+        "color": "lime",
+        "code": "#cddc39"
+    },
+    {
+        "color": "yellow",
+        "code": "#ffeb3b"
+    },
+    {
+        "color": "amber",
+        "code": "#ffc107"
+    },
+    {
+        "color": "orange",
+        "code": "#ff9800"
+    },
+    {
+        "color": "deeporange",
+        "code": "#ff5722"
+    },
+    {
+        "color": "brown",
+        "code": "#795548"
+    },
+    {
+        "color": "grey",
+        "code": "#9e9e9e"
+    },
+    {
+        "color": "black",
+        "code": "#000000"
+    },
+    {
+        "color": "white",
+        "code": "#ffffff"
+    }
+]
